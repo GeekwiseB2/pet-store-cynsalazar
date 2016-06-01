@@ -1,0 +1,80 @@
+.containerheader a{
+color:#61aee6;
+}
+
+.header img{
+  max-width: 90px;
+}
+
+.header h1{
+  font-family: 'Satisfy', cursive;
+  color: #F48059;
+}
+
+a{
+  color: #61a3e6;
+}
+
+
+.jumbotron{
+  background-image: url('../img/hero.jpg');
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron h1{
+  font-family: 'open sans', sans-serif;
+  color: #fff;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 45px;
+}
+
+.featured h2{
+  text-transform: uppercase;
+}
+
+.featured .item{
+  padding: 0 5px;
+}
+
+.featured .thumbnail{
+  background-color: #EDF1f4;
+  padding: 10px;
+}
+
+.services h2{
+  text-transform: uppercase;
+}
+
+.services ul li a{
+  text-transform: uppercase;
+  color: #61aee6;
+}
+
+footer{
+  background-color:#231f20;
+  padding: 20px;
+}
+
+footer .row{
+  margin: 0;
+}
+
+footer img{
+  max-width: 150px;
+}
+
+footer a{
+  color: #DDD;
+}
+
+footer .border{
+  border-left: 1px solid #505050;
+}
+
+footer .copyright{
+  color: #505050;
+  font-size: 18px;
+}
